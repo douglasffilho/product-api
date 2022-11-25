@@ -11,11 +11,15 @@
     <img alt="Github top language" src="https://img.shields.io/badge/Fastify-4.x-green.svg">
   </a>
 
-  <img alt="Github top language" src="https://img.shields.io/badge/NodeJS-16.x-green.svg">
+  <img alt="Github top language" src="https://img.shields.io/badge/NodeJS-16.17.0-green.svg">
 
   <img alt="Commitlint" src="https://img.shields.io/badge/commitlint-&check;-green.svg">
 
   <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+
+  <a href="https://product-api.up.railway.app" rel="nofollow">
+    <img alt="Github top language" src="https://img.shields.io/badge/Open_URL_&#8599;-blue.svg">
+  </a>
 </p>
 
 <p align="center">
